@@ -1,0 +1,17 @@
+{
+  "name": "fkMarkerPool",
+  "version": "0.0.0",
+  "authors": [
+    "fabrice kabongo <fabrice.k.kabongo[at]gmail.com"
+  ],
+  "description": "a class that help you to show multiple markers on a google map without using a lot of memory.",
+  "main": "fkmarkerpool.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "googlemap",
+    "objectpool"
+  ],
+  "license": "MIT"
+}
