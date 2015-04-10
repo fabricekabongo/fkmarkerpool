@@ -8,14 +8,14 @@
 
 ## How to use
 
-add a div and set a style and a id
+        add a div and set a style and a id
        <div style="height:100%; min-height:500px">
         <div style="height:100%; min-height:500px" id="map-canvas" width="500px" height="500px"></div>
        </div>
-add google map api and fkmarkerpool.js
+       add google map api and fkmarkerpool.js
        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
        <script src="bower_components/fkmarkerpool/fkmarkerpool.js"></script>
-and then
+        and then
        <script type="text/javascript">
         var mapOptions = {
          zoom: 10,
