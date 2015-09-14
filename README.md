@@ -47,3 +47,7 @@
 Don't hesitate to ask me for improvement and propose me improvement.
 
 This project is [under MIT](https://github.com/fabricekabongo/fkmarkerpool/blob/master/LICENSE.MD)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/fkmarkerpool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
